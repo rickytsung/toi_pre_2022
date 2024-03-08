@@ -1,7 +1,7 @@
 2024.03.08 公開測資
 
 聲明 : 
-所有測資來源為 : https://github.com/twpca/toi-primary-2022，對應解法可參考裡面的。
+所有測資來源為 : https://github.com/twpca/toi-primary-2022 ，對應解法可參考裡面的。
 
 因為 ZJ 的系統限制，無法放上所有測試資料
 
